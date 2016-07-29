@@ -27,7 +27,7 @@ The program has a wizard of first use, it first will ask the executable program 
 
 After the game be released in the HiAlgo SWITCH screen click 'YES, PLEASE' to enable injector or 'NO, THANK YOU' to not activate.
 
-NOTE: The default key to enable half-resolution in-game is Middle Mouse Button.
+NOTE: The default key to enable half-resolution in-game is **MIDDLE MOUSE BUTTON**.
 
 # Notes
 * Recommended to put the program in the game folder. If you need to create another launcher, simply copy the executable 'HiAlgoSWITCH_Launcher.exe' to the desired folder, so the attending of first use appears to the new game configuration. You can also create a launcher shortcut if desired (recommended if you are using the tool for various games).

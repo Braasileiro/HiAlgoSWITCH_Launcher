@@ -9,7 +9,7 @@ Originally created this program to use with Resident Evil 0 HD Remaster, because
 
 My PC is not that great and the internal resolution of the game (Resident Evil HD Remaster 0) is high (1920x1440), so I can not reach 60FPS in the game. #SadFace
 
-While the staff did not discover how to change the internal resolution of this game, that's the way. I am studying how to inject hooks in Direct3D 9 and see if I can change the internal resolution of the game. Any progress'll let here in the README.
+While the staff did not discover how to change the internal resolution of this game, that's the way. I am studying how to inject hooks in Direct3D 9 and see if I can change the internal resolution of the game. Any progress i will let here in the README.
 
 # Installing
 The program has no installer, just open the executable "HiAlgoSWITCH_Launcher.exe" and follow the instructions.

@@ -13,7 +13,7 @@ NOTE: If the game is running in administrator mode, the program should also be s
 # Requeriments
 * Windows 7 or higher
 * Microsoft .NET Framework 4.6
-* HiAlgoSWITCH installed <http://www.hialgo.com/Downloads.html>
+* [HiAlgoSWITCH installed] (http://www.hialgo.com/Downloads.html)
 * Any DirectX 9 game that you want to use.
 
 # Usage

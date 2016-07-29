@@ -3,11 +3,13 @@ A program to launch a game with HiAlgoSWITCH activated and after running, close 
 
 My second program in C# and second firm contact with object-oriented programming. Hehehehe'
 
-I created this program because I need to use the HiAlgoSWITCH with Resident Evil 0 HD Reamaster. My PC is not that great and the game is very high internal resolution (1920x1440), so I can not reach 60FPS in the game. While the staff did not discover how to change the internal resolution of this game, that's the way. #SadFace
-
-I am studying how to inject hooks in Direct3D 9 and see if I can change the internal resolution of the game. Any progress'll let here in the README.
-
 The program basically works as a launcher for HiAlgo SWITCH. Instead of opening the HiAlgo and then open the game, the program does everything automatically.
+
+Originally created this program to use with Resident Evil 0 HD Remaster, because I need to use the HiAlgoSWITCH with the game, but as a utility, I decided to use code in general.
+
+My PC is not that great and the internal resolution of the game (Resident Evil HD Remaster 0) is high (1920x1440), so I can not reach 60FPS in the game. #SadFace
+
+While the staff did not discover how to change the internal resolution of this game, that's the way. I am studying how to inject hooks in Direct3D 9 and see if I can change the internal resolution of the game. Any progress'll let here in the README.
 
 # Installing
 The program has no installer, just open the executable "HiAlgoSWITCH_Launcher.exe" and follow the instructions.

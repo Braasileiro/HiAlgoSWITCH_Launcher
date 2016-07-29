@@ -26,4 +26,4 @@ After the game be released in the HiAlgo SWITCH screen click 'YES, PLEASE' to en
 
 * You can also create symbolic links (hard links) of 'HiAlgoSWITCH_Launcher.exe' file to the desired folder, so you can avoid duplication of files, although the program is very small (32,768 bytes). 
 
-* If you have made the wrong configuration, the value of the seven 'FirstRun' to 'Enabled' the 'HiAlgoSWITCH_Launcher.ini' file and open the program to create a new configuration file or simply delete the file. A better error checking out soon.
+* If you have made the wrong configuration, the value of the seven 'FirstRun' to 'Enabled' in the 'HiAlgoSWITCH_Launcher.ini' file and open the program to create a new configuration file or simply delete the file. A better error checking out soon.

@@ -1,7 +1,7 @@
 # HiAlgoSWITCH_Launcher
 A program to launch a game with HiAlgoSWITCH activated and after running, close it.
 
-My second program in C# and second firm contact with object-oriented programming. :)
+My second program in C# and second firm contact with object-oriented programming. Hehehehe'
 
 The program basically works as a launcher for HiAlgo SWITCH. Instead of opening the HiAlgo and then open the game, the program does everything automatically.
 
